@@ -8,4 +8,4 @@ Icarus提供了多仓位交易 和 很多有用的交易信息。
 3. pattern应该是time frame independent。
 4. 可以在多个time frame上做一致性判定
 5. 
-
+new line
