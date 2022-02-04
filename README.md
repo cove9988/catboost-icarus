@@ -7,3 +7,5 @@ Icarus提供了多仓位交易 和 很多有用的交易信息。
 2. stop limit也是又pattern的反向possibilities来设定
 3. pattern应该是time frame independent。
 4. 可以在多个time frame上做一致性判定
+5. 
+new line
